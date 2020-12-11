@@ -1,0 +1,115 @@
+
+
+
+
+/* Smartphones large size (portrait and landscape) ----------- */
+@media screen and (max-width : 768px){
+	#upload_button{
+		margin-bottom:15px;
+	}
+	#submit_button{
+		margin-bottom:20px;
+	}
+	.fu_form{
+		height:300px;
+	}
+	.fu_form {
+		height: 180px;
+	}
+	.zoom_btn {
+		right: 20%;
+	}
+	.zoom_btn i {
+		font-size: 25px;
+	}
+	.delete_icon {
+		font-size: 25px;
+	}
+	.grid-item, .muuri-item, .u_files, .grid li{
+		height: 230px;
+	}
+	
+	
+	
+}
+
+
+
+
+/* iPads (portrait and landscape) ----------- */
+@media screen and (max-width : 992px){
+	.zoom_btn {
+		right: 14%;
+	}
+	.zoom_btn i {
+		font-size: 30px;
+	}
+	.delete_icon {
+		font-size: 30px;
+	}
+	.grid-item, .muuri-item, .u_files, .grid li{
+		height: 190px;
+	}
+	
+	
+	
+	
+
+}
+/* iPads (portrait and landscape) ----------- */
+@media screen and (max-width : 1200px){
+	
+}
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media screen and (max-width : 576px){
+	.fu_form h3{
+		padding:0;
+		font-size:25px;
+	}
+	#upload_button{
+		width:100%;
+		display:inline-block;
+		margin-bottom:10px;
+		background:silver;
+		border-radius:0 10px 10px 0;
+	}
+	#submit_button{
+		width:30%;
+		display:inline-block;
+		margin-bottom:10px;
+	}
+	.zoom_btn {
+		right: 20%;
+	}
+	.zoom_btn i {
+		font-size: 25px;
+	}
+	.delete_icon {
+		font-size: 25px;
+	}
+	.grid-item, .muuri-item, .u_files, .grid li{
+		height: 130px;
+	}
+	
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
